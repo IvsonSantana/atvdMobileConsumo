@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "app-movie",
-    "slug": "app-movie",
+    "name": "app-digimon",
+    "slug": "app-digimon",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
